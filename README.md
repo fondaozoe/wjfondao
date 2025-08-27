@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning ****
 
-- 📫 How to reach me **wjbenz.studio@gmail.com**
+- 📫 How to reach me 
 
 - ⚡ Fun fact **I'm an advocate with an INFJ personality type.**
 
--  🖼️  My illustrator :: Nabee 🦋  <a href="https://www.instagram.com/wjbenz_studio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wjbenz_draw" height="30" width="40" /></a> 
+-  🖼️  My illustrator :: Nabee 🦋  <a href="https://www.instagram.com/nanabi.butterfly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wjbenz_draw" height="30" width="40" /></a> 
 
 
 
