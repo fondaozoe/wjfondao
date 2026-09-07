@@ -2,21 +2,7 @@
 
 <h1> 👋 Hello, welcome to my GitHub profile! </h1>
 
-## My name is RoteBenz. I'm delighted to meet you.
-
-<p> 🌷 I am a Software Engineering. who is interested in web development and Illustrator.  </p>
-<p> 🌷 My future is my passion when I design any software, and I can coding in Front-end developer, managing document, and testing software. </p>
-
-- 🌱 I’m currently learning ****
-
-- 📫 How to reach me 
-
-- ⚡ Fun fact **I'm an advocate with an INFJ personality type.**
-
-
-
-
-# I'm a UI Designer with a background in Software Engineering and over three years of experience designing digital products.
+### I'm a UI Designer with a background in Software Engineering and over three years of experience designing digital products.
 
 🌷 I specialize in responsive web and mobile interfaces, design systems, reusable components, and Figma variables and design tokens.
 
